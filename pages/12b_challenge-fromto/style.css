@@ -18,10 +18,6 @@
   user-select: none;
 }
 
-.reactions button:hover {
-  transform: scale(1.2);
-}
-
 .bubble {
   position: absolute;
   font-size: 28px;
