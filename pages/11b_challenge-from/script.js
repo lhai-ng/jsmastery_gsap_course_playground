@@ -16,6 +16,7 @@ card.onmouseenter = () => {
         ease: 'power2.out',
         duration: 0.8,
         transformOrigin: 'center center',
+        force3D: true,
     })
 }
 
@@ -25,5 +26,6 @@ card.onmouseleave = () => {
         ease: 'power2.out',
         duration: 0.8,
         transformOrigin: 'center center',
+        force3D: true,
     })
 }
